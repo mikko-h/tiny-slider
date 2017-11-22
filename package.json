@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/ganlanyuan/tiny-slider/issues"
   },
-  "homepage": "https://github.com/ganlanyuan/tiny-slider#readme"
+  "homepage": "https://github.com/ganlanyuan/tiny-slider#readme",
+  "browserify": {
+    "transform": ["babelify"]
+  }
 }
